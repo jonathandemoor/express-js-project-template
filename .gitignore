@@ -1,0 +1,6 @@
+public/css
+node_modules
+logs/*.log
+
+.DS_Store
+.idea
